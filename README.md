@@ -3,5 +3,6 @@
 
 ## TOC
 
+- [基本配置](basic.md)
 - [快捷键](md/hotkey.md)
 - [插件](md/plugins.md)
